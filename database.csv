@@ -1,0 +1,841 @@
+user_id,discount_id,score,discount_name,category
+1,1,5,queima,social
+1,2,0,discoteca A,social
+1,3,1,discoteca B,social
+1,4,0,uber,mobility
+1,5,1,cabify,mobility
+1,6,0,daTerra,food
+1,7,0,McDonalds,food
+1,8,1,uber eats,food
+1,9,3,avengers,movies
+1,10,1,netflix,movies
+1,11,1,spotify,music
+1,12,5,apple music,music
+1,13,0,tidal,music
+1,14,3,zara,fashion
+1,15,3,pull&bear,fashion
+1,16,1,airbnb,travel
+1,17,5,abreu,travel
+1,18,1,sportszone,sport
+1,19,3,gym,sport
+1,20,3,bertrand,study
+1,21,3,wook,study
+2,1,3,queima,social
+2,2,1,discoteca A,social
+2,3,3,discoteca B,social
+2,4,5,uber,mobility
+2,5,5,cabify,mobility
+2,6,0,daTerra,food
+2,7,3,McDonalds,food
+2,8,3,uber eats,food
+2,9,5,avengers,movies
+2,10,5,netflix,movies
+2,11,5,spotify,music
+2,12,1,apple music,music
+2,13,0,tidal,music
+2,14,3,zara,fashion
+2,15,1,pull&bear,fashion
+2,16,0,airbnb,travel
+2,17,3,abreu,travel
+2,18,3,sportszone,sport
+2,19,3,gym,sport
+2,20,5,bertrand,study
+2,21,1,wook,study
+3,1,5,queima,social
+3,2,1,discoteca A,social
+3,3,5,discoteca B,social
+3,4,1,uber,mobility
+3,5,1,cabify,mobility
+3,6,5,daTerra,food
+3,7,1,McDonalds,food
+3,8,0,uber eats,food
+3,9,5,avengers,movies
+3,10,5,netflix,movies
+3,11,1,spotify,music
+3,12,1,apple music,music
+3,13,3,tidal,music
+3,14,1,zara,fashion
+3,15,0,pull&bear,fashion
+3,16,5,airbnb,travel
+3,17,3,abreu,travel
+3,18,1,sportszone,sport
+3,19,0,gym,sport
+3,20,0,bertrand,study
+3,21,1,wook,study
+4,1,3,queima,social
+4,2,5,discoteca A,social
+4,3,1,discoteca B,social
+4,4,3,uber,mobility
+4,5,0,cabify,mobility
+4,6,0,daTerra,food
+4,7,3,McDonalds,food
+4,8,1,uber eats,food
+4,9,1,avengers,movies
+4,10,3,netflix,movies
+4,11,5,spotify,music
+4,12,0,apple music,music
+4,13,5,tidal,music
+4,14,5,zara,fashion
+4,15,0,pull&bear,fashion
+4,16,1,airbnb,travel
+4,17,1,abreu,travel
+4,18,0,sportszone,sport
+4,19,5,gym,sport
+4,20,0,bertrand,study
+4,21,3,wook,study
+5,1,5,queima,social
+5,2,0,discoteca A,social
+5,3,3,discoteca B,social
+5,4,3,uber,mobility
+5,5,3,cabify,mobility
+5,6,1,daTerra,food
+5,7,3,McDonalds,food
+5,8,1,uber eats,food
+5,9,0,avengers,movies
+5,10,0,netflix,movies
+5,11,5,spotify,music
+5,12,1,apple music,music
+5,13,0,tidal,music
+5,14,5,zara,fashion
+5,15,0,pull&bear,fashion
+5,16,5,airbnb,travel
+5,17,0,abreu,travel
+5,18,5,sportszone,sport
+5,19,0,gym,sport
+5,20,1,bertrand,study
+5,21,0,wook,study
+6,1,3,queima,social
+6,2,1,discoteca A,social
+6,3,0,discoteca B,social
+6,4,0,uber,mobility
+6,5,3,cabify,mobility
+6,6,1,daTerra,food
+6,7,5,McDonalds,food
+6,8,5,uber eats,food
+6,9,3,avengers,movies
+6,10,1,netflix,movies
+6,11,5,spotify,music
+6,12,3,apple music,music
+6,13,5,tidal,music
+6,14,0,zara,fashion
+6,15,3,pull&bear,fashion
+6,16,0,airbnb,travel
+6,17,0,abreu,travel
+6,18,1,sportszone,sport
+6,19,3,gym,sport
+6,20,5,bertrand,study
+6,21,1,wook,study
+7,1,3,queima,social
+7,2,0,discoteca A,social
+7,3,3,discoteca B,social
+7,4,5,uber,mobility
+7,5,1,cabify,mobility
+7,6,1,daTerra,food
+7,7,1,McDonalds,food
+7,8,1,uber eats,food
+7,9,5,avengers,movies
+7,10,3,netflix,movies
+7,11,0,spotify,music
+7,12,0,apple music,music
+7,13,1,tidal,music
+7,14,1,zara,fashion
+7,15,1,pull&bear,fashion
+7,16,3,airbnb,travel
+7,17,0,abreu,travel
+7,18,1,sportszone,sport
+7,19,0,gym,sport
+7,20,1,bertrand,study
+7,21,5,wook,study
+8,1,1,queima,social
+8,2,0,discoteca A,social
+8,3,0,discoteca B,social
+8,4,0,uber,mobility
+8,5,0,cabify,mobility
+8,6,5,daTerra,food
+8,7,3,McDonalds,food
+8,8,1,uber eats,food
+8,9,3,avengers,movies
+8,10,1,netflix,movies
+8,11,3,spotify,music
+8,12,0,apple music,music
+8,13,1,tidal,music
+8,14,0,zara,fashion
+8,15,1,pull&bear,fashion
+8,16,5,airbnb,travel
+8,17,3,abreu,travel
+8,18,3,sportszone,sport
+8,19,5,gym,sport
+8,20,1,bertrand,study
+8,21,0,wook,study
+9,1,5,queima,social
+9,2,5,discoteca A,social
+9,3,3,discoteca B,social
+9,4,1,uber,mobility
+9,5,1,cabify,mobility
+9,6,5,daTerra,food
+9,7,3,McDonalds,food
+9,8,1,uber eats,food
+9,9,1,avengers,movies
+9,10,1,netflix,movies
+9,11,5,spotify,music
+9,12,1,apple music,music
+9,13,5,tidal,music
+9,14,5,zara,fashion
+9,15,3,pull&bear,fashion
+9,16,3,airbnb,travel
+9,17,3,abreu,travel
+9,18,3,sportszone,sport
+9,19,1,gym,sport
+9,20,5,bertrand,study
+9,21,1,wook,study
+10,1,5,queima,social
+10,2,0,discoteca A,social
+10,3,5,discoteca B,social
+10,4,5,uber,mobility
+10,5,0,cabify,mobility
+10,6,3,daTerra,food
+10,7,0,McDonalds,food
+10,8,5,uber eats,food
+10,9,5,avengers,movies
+10,10,0,netflix,movies
+10,11,0,spotify,music
+10,12,5,apple music,music
+10,13,5,tidal,music
+10,14,5,zara,fashion
+10,15,0,pull&bear,fashion
+10,16,0,airbnb,travel
+10,17,1,abreu,travel
+10,18,3,sportszone,sport
+10,19,0,gym,sport
+10,20,3,bertrand,study
+10,21,0,wook,study
+11,1,5,queima,social
+11,2,3,discoteca A,social
+11,3,5,discoteca B,social
+11,4,1,uber,mobility
+11,5,0,cabify,mobility
+11,6,1,daTerra,food
+11,7,0,McDonalds,food
+11,8,3,uber eats,food
+11,9,5,avengers,movies
+11,10,1,netflix,movies
+11,11,5,spotify,music
+11,12,3,apple music,music
+11,13,1,tidal,music
+11,14,1,zara,fashion
+11,15,3,pull&bear,fashion
+11,16,1,airbnb,travel
+11,17,0,abreu,travel
+11,18,0,sportszone,sport
+11,19,0,gym,sport
+11,20,1,bertrand,study
+11,21,1,wook,study
+12,1,0,queima,social
+12,2,1,discoteca A,social
+12,3,0,discoteca B,social
+12,4,0,uber,mobility
+12,5,1,cabify,mobility
+12,6,5,daTerra,food
+12,7,3,McDonalds,food
+12,8,5,uber eats,food
+12,9,0,avengers,movies
+12,10,1,netflix,movies
+12,11,0,spotify,music
+12,12,0,apple music,music
+12,13,3,tidal,music
+12,14,3,zara,fashion
+12,15,5,pull&bear,fashion
+12,16,3,airbnb,travel
+12,17,3,abreu,travel
+12,18,1,sportszone,sport
+12,19,1,gym,sport
+12,20,0,bertrand,study
+12,21,5,wook,study
+13,1,5,queima,social
+13,2,0,discoteca A,social
+13,3,5,discoteca B,social
+13,4,0,uber,mobility
+13,5,5,cabify,mobility
+13,6,3,daTerra,food
+13,7,3,McDonalds,food
+13,8,0,uber eats,food
+13,9,5,avengers,movies
+13,10,1,netflix,movies
+13,11,0,spotify,music
+13,12,0,apple music,music
+13,13,0,tidal,music
+13,14,5,zara,fashion
+13,15,5,pull&bear,fashion
+13,16,0,airbnb,travel
+13,17,0,abreu,travel
+13,18,1,sportszone,sport
+13,19,3,gym,sport
+13,20,1,bertrand,study
+13,21,0,wook,study
+14,1,0,queima,social
+14,2,1,discoteca A,social
+14,3,5,discoteca B,social
+14,4,5,uber,mobility
+14,5,1,cabify,mobility
+14,6,5,daTerra,food
+14,7,1,McDonalds,food
+14,8,3,uber eats,food
+14,9,3,avengers,movies
+14,10,1,netflix,movies
+14,11,0,spotify,music
+14,12,0,apple music,music
+14,13,5,tidal,music
+14,14,5,zara,fashion
+14,15,1,pull&bear,fashion
+14,16,1,airbnb,travel
+14,17,1,abreu,travel
+14,18,5,sportszone,sport
+14,19,0,gym,sport
+14,20,0,bertrand,study
+14,21,5,wook,study
+15,1,3,queima,social
+15,2,1,discoteca A,social
+15,3,3,discoteca B,social
+15,4,0,uber,mobility
+15,5,5,cabify,mobility
+15,6,0,daTerra,food
+15,7,1,McDonalds,food
+15,8,0,uber eats,food
+15,9,3,avengers,movies
+15,10,3,netflix,movies
+15,11,3,spotify,music
+15,12,0,apple music,music
+15,13,3,tidal,music
+15,14,1,zara,fashion
+15,15,3,pull&bear,fashion
+15,16,0,airbnb,travel
+15,17,0,abreu,travel
+15,18,5,sportszone,sport
+15,19,5,gym,sport
+15,20,0,bertrand,study
+15,21,3,wook,study
+16,1,1,queima,social
+16,2,1,discoteca A,social
+16,3,3,discoteca B,social
+16,4,1,uber,mobility
+16,5,0,cabify,mobility
+16,6,0,daTerra,food
+16,7,1,McDonalds,food
+16,8,0,uber eats,food
+16,9,3,avengers,movies
+16,10,5,netflix,movies
+16,11,5,spotify,music
+16,12,5,apple music,music
+16,13,3,tidal,music
+16,14,1,zara,fashion
+16,15,5,pull&bear,fashion
+16,16,1,airbnb,travel
+16,17,3,abreu,travel
+16,18,3,sportszone,sport
+16,19,1,gym,sport
+16,20,1,bertrand,study
+16,21,3,wook,study
+17,1,1,queima,social
+17,2,5,discoteca A,social
+17,3,3,discoteca B,social
+17,4,3,uber,mobility
+17,5,5,cabify,mobility
+17,6,1,daTerra,food
+17,7,1,McDonalds,food
+17,8,3,uber eats,food
+17,9,1,avengers,movies
+17,10,1,netflix,movies
+17,11,1,spotify,music
+17,12,0,apple music,music
+17,13,0,tidal,music
+17,14,5,zara,fashion
+17,15,5,pull&bear,fashion
+17,16,5,airbnb,travel
+17,17,3,abreu,travel
+17,18,5,sportszone,sport
+17,19,3,gym,sport
+17,20,1,bertrand,study
+17,21,3,wook,study
+18,1,0,queima,social
+18,2,5,discoteca A,social
+18,3,0,discoteca B,social
+18,4,3,uber,mobility
+18,5,1,cabify,mobility
+18,6,0,daTerra,food
+18,7,5,McDonalds,food
+18,8,5,uber eats,food
+18,9,0,avengers,movies
+18,10,3,netflix,movies
+18,11,5,spotify,music
+18,12,5,apple music,music
+18,13,1,tidal,music
+18,14,3,zara,fashion
+18,15,0,pull&bear,fashion
+18,16,5,airbnb,travel
+18,17,5,abreu,travel
+18,18,3,sportszone,sport
+18,19,3,gym,sport
+18,20,5,bertrand,study
+18,21,5,wook,study
+19,1,3,queima,social
+19,2,3,discoteca A,social
+19,3,0,discoteca B,social
+19,4,1,uber,mobility
+19,5,0,cabify,mobility
+19,6,1,daTerra,food
+19,7,1,McDonalds,food
+19,8,5,uber eats,food
+19,9,3,avengers,movies
+19,10,1,netflix,movies
+19,11,1,spotify,music
+19,12,3,apple music,music
+19,13,1,tidal,music
+19,14,5,zara,fashion
+19,15,1,pull&bear,fashion
+19,16,1,airbnb,travel
+19,17,3,abreu,travel
+19,18,0,sportszone,sport
+19,19,0,gym,sport
+19,20,1,bertrand,study
+19,21,5,wook,study
+20,1,5,queima,social
+20,2,1,discoteca A,social
+20,3,1,discoteca B,social
+20,4,3,uber,mobility
+20,5,1,cabify,mobility
+20,6,1,daTerra,food
+20,7,0,McDonalds,food
+20,8,3,uber eats,food
+20,9,5,avengers,movies
+20,10,5,netflix,movies
+20,11,3,spotify,music
+20,12,3,apple music,music
+20,13,5,tidal,music
+20,14,0,zara,fashion
+20,15,5,pull&bear,fashion
+20,16,0,airbnb,travel
+20,17,0,abreu,travel
+20,18,3,sportszone,sport
+20,19,1,gym,sport
+20,20,3,bertrand,study
+20,21,3,wook,study
+21,1,0,queima,social
+21,2,1,discoteca A,social
+21,3,1,discoteca B,social
+21,4,3,uber,mobility
+21,5,1,cabify,mobility
+21,6,3,daTerra,food
+21,7,0,McDonalds,food
+21,8,3,uber eats,food
+21,9,5,avengers,movies
+21,10,3,netflix,movies
+21,11,1,spotify,music
+21,12,0,apple music,music
+21,13,3,tidal,music
+21,14,0,zara,fashion
+21,15,5,pull&bear,fashion
+21,16,3,airbnb,travel
+21,17,0,abreu,travel
+21,18,0,sportszone,sport
+21,19,0,gym,sport
+21,20,3,bertrand,study
+21,21,5,wook,study
+22,1,0,queima,social
+22,2,0,discoteca A,social
+22,3,5,discoteca B,social
+22,4,3,uber,mobility
+22,5,5,cabify,mobility
+22,6,5,daTerra,food
+22,7,5,McDonalds,food
+22,8,3,uber eats,food
+22,9,3,avengers,movies
+22,10,0,netflix,movies
+22,11,1,spotify,music
+22,12,5,apple music,music
+22,13,0,tidal,music
+22,14,3,zara,fashion
+22,15,5,pull&bear,fashion
+22,16,3,airbnb,travel
+22,17,1,abreu,travel
+22,18,3,sportszone,sport
+22,19,3,gym,sport
+22,20,0,bertrand,study
+22,21,1,wook,study
+23,1,5,queima,social
+23,2,5,discoteca A,social
+23,3,5,discoteca B,social
+23,4,3,uber,mobility
+23,5,3,cabify,mobility
+23,6,3,daTerra,food
+23,7,0,McDonalds,food
+23,8,5,uber eats,food
+23,9,0,avengers,movies
+23,10,0,netflix,movies
+23,11,3,spotify,music
+23,12,0,apple music,music
+23,13,1,tidal,music
+23,14,5,zara,fashion
+23,15,1,pull&bear,fashion
+23,16,5,airbnb,travel
+23,17,3,abreu,travel
+23,18,1,sportszone,sport
+23,19,0,gym,sport
+23,20,0,bertrand,study
+23,21,0,wook,study
+24,1,5,queima,social
+24,2,1,discoteca A,social
+24,3,3,discoteca B,social
+24,4,1,uber,mobility
+24,5,3,cabify,mobility
+24,6,1,daTerra,food
+24,7,3,McDonalds,food
+24,8,5,uber eats,food
+24,9,0,avengers,movies
+24,10,0,netflix,movies
+24,11,0,spotify,music
+24,12,0,apple music,music
+24,13,0,tidal,music
+24,14,5,zara,fashion
+24,15,3,pull&bear,fashion
+24,16,1,airbnb,travel
+24,17,1,abreu,travel
+24,18,1,sportszone,sport
+24,19,5,gym,sport
+24,20,3,bertrand,study
+24,21,1,wook,study
+25,1,1,queima,social
+25,2,0,discoteca A,social
+25,3,1,discoteca B,social
+25,4,3,uber,mobility
+25,5,3,cabify,mobility
+25,6,5,daTerra,food
+25,7,1,McDonalds,food
+25,8,0,uber eats,food
+25,9,5,avengers,movies
+25,10,3,netflix,movies
+25,11,0,spotify,music
+25,12,5,apple music,music
+25,13,5,tidal,music
+25,14,5,zara,fashion
+25,15,3,pull&bear,fashion
+25,16,5,airbnb,travel
+25,17,1,abreu,travel
+25,18,3,sportszone,sport
+25,19,1,gym,sport
+25,20,3,bertrand,study
+25,21,5,wook,study
+26,1,1,queima,social
+26,2,3,discoteca A,social
+26,3,0,discoteca B,social
+26,4,0,uber,mobility
+26,5,3,cabify,mobility
+26,6,1,daTerra,food
+26,7,0,McDonalds,food
+26,8,0,uber eats,food
+26,9,3,avengers,movies
+26,10,0,netflix,movies
+26,11,3,spotify,music
+26,12,3,apple music,music
+26,13,1,tidal,music
+26,14,5,zara,fashion
+26,15,1,pull&bear,fashion
+26,16,0,airbnb,travel
+26,17,0,abreu,travel
+26,18,0,sportszone,sport
+26,19,1,gym,sport
+26,20,1,bertrand,study
+26,21,1,wook,study
+27,1,1,queima,social
+27,2,5,discoteca A,social
+27,3,3,discoteca B,social
+27,4,0,uber,mobility
+27,5,5,cabify,mobility
+27,6,5,daTerra,food
+27,7,5,McDonalds,food
+27,8,1,uber eats,food
+27,9,0,avengers,movies
+27,10,3,netflix,movies
+27,11,1,spotify,music
+27,12,5,apple music,music
+27,13,1,tidal,music
+27,14,3,zara,fashion
+27,15,5,pull&bear,fashion
+27,16,1,airbnb,travel
+27,17,1,abreu,travel
+27,18,1,sportszone,sport
+27,19,3,gym,sport
+27,20,1,bertrand,study
+27,21,5,wook,study
+28,1,5,queima,social
+28,2,0,discoteca A,social
+28,3,3,discoteca B,social
+28,4,5,uber,mobility
+28,5,5,cabify,mobility
+28,6,0,daTerra,food
+28,7,1,McDonalds,food
+28,8,1,uber eats,food
+28,9,5,avengers,movies
+28,10,1,netflix,movies
+28,11,5,spotify,music
+28,12,1,apple music,music
+28,13,3,tidal,music
+28,14,3,zara,fashion
+28,15,5,pull&bear,fashion
+28,16,0,airbnb,travel
+28,17,5,abreu,travel
+28,18,0,sportszone,sport
+28,19,1,gym,sport
+28,20,1,bertrand,study
+28,21,5,wook,study
+29,1,1,queima,social
+29,2,5,discoteca A,social
+29,3,0,discoteca B,social
+29,4,3,uber,mobility
+29,5,5,cabify,mobility
+29,6,0,daTerra,food
+29,7,3,McDonalds,food
+29,8,0,uber eats,food
+29,9,5,avengers,movies
+29,10,5,netflix,movies
+29,11,3,spotify,music
+29,12,0,apple music,music
+29,13,1,tidal,music
+29,14,1,zara,fashion
+29,15,3,pull&bear,fashion
+29,16,1,airbnb,travel
+29,17,0,abreu,travel
+29,18,5,sportszone,sport
+29,19,5,gym,sport
+29,20,0,bertrand,study
+29,21,3,wook,study
+30,1,5,queima,social
+30,2,1,discoteca A,social
+30,3,0,discoteca B,social
+30,4,5,uber,mobility
+30,5,1,cabify,mobility
+30,6,3,daTerra,food
+30,7,3,McDonalds,food
+30,8,1,uber eats,food
+30,9,5,avengers,movies
+30,10,5,netflix,movies
+30,11,1,spotify,music
+30,12,0,apple music,music
+30,13,3,tidal,music
+30,14,3,zara,fashion
+30,15,3,pull&bear,fashion
+30,16,0,airbnb,travel
+30,17,3,abreu,travel
+30,18,1,sportszone,sport
+30,19,0,gym,sport
+30,20,0,bertrand,study
+30,21,1,wook,study
+31,1,5,queima,social
+31,2,1,discoteca A,social
+31,3,3,discoteca B,social
+31,4,1,uber,mobility
+31,5,3,cabify,mobility
+31,6,1,daTerra,food
+31,7,0,McDonalds,food
+31,8,1,uber eats,food
+31,9,5,avengers,movies
+31,10,0,netflix,movies
+31,11,1,spotify,music
+31,12,3,apple music,music
+31,13,5,tidal,music
+31,14,5,zara,fashion
+31,15,5,pull&bear,fashion
+31,16,0,airbnb,travel
+31,17,0,abreu,travel
+31,18,1,sportszone,sport
+31,19,5,gym,sport
+31,20,1,bertrand,study
+31,21,5,wook,study
+32,1,1,queima,social
+32,2,3,discoteca A,social
+32,3,5,discoteca B,social
+32,4,3,uber,mobility
+32,5,5,cabify,mobility
+32,6,0,daTerra,food
+32,7,3,McDonalds,food
+32,8,0,uber eats,food
+32,9,3,avengers,movies
+32,10,3,netflix,movies
+32,11,3,spotify,music
+32,12,3,apple music,music
+32,13,5,tidal,music
+32,14,0,zara,fashion
+32,15,3,pull&bear,fashion
+32,16,5,airbnb,travel
+32,17,0,abreu,travel
+32,18,1,sportszone,sport
+32,19,1,gym,sport
+32,20,5,bertrand,study
+32,21,1,wook,study
+33,1,1,queima,social
+33,2,0,discoteca A,social
+33,3,5,discoteca B,social
+33,4,1,uber,mobility
+33,5,1,cabify,mobility
+33,6,1,daTerra,food
+33,7,5,McDonalds,food
+33,8,0,uber eats,food
+33,9,0,avengers,movies
+33,10,5,netflix,movies
+33,11,5,spotify,music
+33,12,1,apple music,music
+33,13,3,tidal,music
+33,14,0,zara,fashion
+33,15,3,pull&bear,fashion
+33,16,5,airbnb,travel
+33,17,1,abreu,travel
+33,18,0,sportszone,sport
+33,19,3,gym,sport
+33,20,5,bertrand,study
+33,21,1,wook,study
+34,1,3,queima,social
+34,2,0,discoteca A,social
+34,3,5,discoteca B,social
+34,4,5,uber,mobility
+34,5,5,cabify,mobility
+34,6,5,daTerra,food
+34,7,1,McDonalds,food
+34,8,1,uber eats,food
+34,9,1,avengers,movies
+34,10,0,netflix,movies
+34,11,3,spotify,music
+34,12,1,apple music,music
+34,13,0,tidal,music
+34,14,5,zara,fashion
+34,15,5,pull&bear,fashion
+34,16,5,airbnb,travel
+34,17,1,abreu,travel
+34,18,1,sportszone,sport
+34,19,5,gym,sport
+34,20,5,bertrand,study
+34,21,1,wook,study
+35,1,3,queima,social
+35,2,0,discoteca A,social
+35,3,3,discoteca B,social
+35,4,5,uber,mobility
+35,5,0,cabify,mobility
+35,6,0,daTerra,food
+35,7,0,McDonalds,food
+35,8,1,uber eats,food
+35,9,3,avengers,movies
+35,10,5,netflix,movies
+35,11,0,spotify,music
+35,12,0,apple music,music
+35,13,5,tidal,music
+35,14,1,zara,fashion
+35,15,1,pull&bear,fashion
+35,16,1,airbnb,travel
+35,17,5,abreu,travel
+35,18,0,sportszone,sport
+35,19,5,gym,sport
+35,20,5,bertrand,study
+35,21,3,wook,study
+36,1,5,queima,social
+36,2,5,discoteca A,social
+36,3,1,discoteca B,social
+36,4,1,uber,mobility
+36,5,3,cabify,mobility
+36,6,5,daTerra,food
+36,7,3,McDonalds,food
+36,8,5,uber eats,food
+36,9,5,avengers,movies
+36,10,1,netflix,movies
+36,11,5,spotify,music
+36,12,0,apple music,music
+36,13,3,tidal,music
+36,14,1,zara,fashion
+36,15,0,pull&bear,fashion
+36,16,3,airbnb,travel
+36,17,3,abreu,travel
+36,18,3,sportszone,sport
+36,19,3,gym,sport
+36,20,3,bertrand,study
+36,21,0,wook,study
+37,1,5,queima,social
+37,2,0,discoteca A,social
+37,3,3,discoteca B,social
+37,4,3,uber,mobility
+37,5,5,cabify,mobility
+37,6,3,daTerra,food
+37,7,3,McDonalds,food
+37,8,1,uber eats,food
+37,9,5,avengers,movies
+37,10,5,netflix,movies
+37,11,5,spotify,music
+37,12,3,apple music,music
+37,13,3,tidal,music
+37,14,0,zara,fashion
+37,15,1,pull&bear,fashion
+37,16,0,airbnb,travel
+37,17,5,abreu,travel
+37,18,3,sportszone,sport
+37,19,5,gym,sport
+37,20,1,bertrand,study
+37,21,3,wook,study
+38,1,1,queima,social
+38,2,5,discoteca A,social
+38,3,5,discoteca B,social
+38,4,0,uber,mobility
+38,5,1,cabify,mobility
+38,6,5,daTerra,food
+38,7,3,McDonalds,food
+38,8,3,uber eats,food
+38,9,5,avengers,movies
+38,10,5,netflix,movies
+38,11,1,spotify,music
+38,12,5,apple music,music
+38,13,3,tidal,music
+38,14,3,zara,fashion
+38,15,0,pull&bear,fashion
+38,16,3,airbnb,travel
+38,17,0,abreu,travel
+38,18,3,sportszone,sport
+38,19,1,gym,sport
+38,20,0,bertrand,study
+38,21,3,wook,study
+39,1,1,queima,social
+39,2,0,discoteca A,social
+39,3,0,discoteca B,social
+39,4,5,uber,mobility
+39,5,1,cabify,mobility
+39,6,0,daTerra,food
+39,7,1,McDonalds,food
+39,8,1,uber eats,food
+39,9,5,avengers,movies
+39,10,3,netflix,movies
+39,11,1,spotify,music
+39,12,3,apple music,music
+39,13,3,tidal,music
+39,14,5,zara,fashion
+39,15,3,pull&bear,fashion
+39,16,5,airbnb,travel
+39,17,5,abreu,travel
+39,18,5,sportszone,sport
+39,19,5,gym,sport
+39,20,1,bertrand,study
+39,21,0,wook,study
+40,1,5,queima,social
+40,2,5,discoteca A,social
+40,3,0,discoteca B,social
+40,4,3,uber,mobility
+40,5,5,cabify,mobility
+40,6,0,daTerra,food
+40,7,3,McDonalds,food
+40,8,0,uber eats,food
+40,9,3,avengers,movies
+40,10,0,netflix,movies
+40,11,5,spotify,music
+40,12,0,apple music,music
+40,13,0,tidal,music
+40,14,3,zara,fashion
+40,15,3,pull&bear,fashion
+40,16,1,airbnb,travel
+40,17,1,abreu,travel
+40,18,3,sportszone,sport
+40,19,3,gym,sport
+40,20,3,bertrand,study
+40,21,5,wook,study

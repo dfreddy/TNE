@@ -1,0 +1,18 @@
+Atribuição de Score a Descontos:
+- 0, nao interagiu
+- 1, interagiu
+- 3, troucou os pontos
+- 5, usou o desconto
+
+Item-Based Recommendation
+Cada user terá um score médio por categoria, atravez da sua atribuiçao de scores a descontos.
+De modo a descobrir o desconto a recomendar:
+- fazer um weighted_rand com base nos average scores da categorias do user
+- ordenar os descontos dentro da categoria escolhida com base nos seus scores globais
+- mostrar o desconto com maior score ao qual o user ainda nao tenha usado ou trocado por pontos
+
+User-Based Recommendation
+Obter primeiro a similarity entre o user em questão e o resto dos users que partilham a mesma ocupação/cidade, usando os seus average scores de categorias como criterio
+Seguir o modelo de item-based recommendation, apenas usando o normalized score em vez do score global, no segundo passo.
+O score normalizado é obtido atravez de uma aggregate function, que toma em conta o grau de similaridade entre users.
+
