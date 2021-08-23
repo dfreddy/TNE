@@ -2,6 +2,8 @@
 
 Rudimentary recommender system for a class.
 
+Relational database using CSV as the dataset was too small to necessitate anything grander.
+
 ## Tech Stack
 
 Python
